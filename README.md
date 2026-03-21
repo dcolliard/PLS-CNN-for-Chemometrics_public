@@ -282,9 +282,6 @@ See the [LICENSE](LICENSE) file for details.
 - Email: carloscolliard@gmail.com
 - Affiliation: Laboratorio de Análisis, Procesamiento, Almacenamiento y Control de Datos (LAPACDA), Fac. de Ciencia y Tecnología, Univ. Autónoma de Entre Ríos, Entre Ríos, Argentina
 
-![LAPACDA](docs/images/lapacda.jpg)
-
 ### Fabricio Chiapini
 - Affiliation: Laboratorio de Desarrollo Analítico y Quimiometría (LADAQ), Fac. de Bioquímica y Cs. Biológicas, Univ. Nacional del Litoral, Santa Fe, Santa Fe, Argentina
 
-![LADAQ](docs/images/ladaq.jpg)
