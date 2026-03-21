@@ -6,7 +6,7 @@
 
 ## Overview
 
-**PYCAL** is the desktop prototype developed in this thesis for researchers and analysts working on multivariate calibration with first-order spectral data.
+**PYCAL** is the desktop prototype developed for researchers and analysts working on multivariate calibration with first-order spectral data.
 
 It integrates, in a single and structured environment, the main stages required to **train, evaluate, and compare calibration models** based on both **classical chemometric methods** and **CNN-1D architectures**. The goal is to provide a practical, research-oriented tool for experimentation, benchmarking, and model interpretation in chemometrics.
 
@@ -59,7 +59,6 @@ It integrates, in a single and structured environment, the main stages required 
     ├── constants.py
     ├── customs_criterion.py
     ├── extras.py
-    ├── main.ipynb
     ├── metrics.py
     ├── preprocessing.py
     ├── resource_path.py
