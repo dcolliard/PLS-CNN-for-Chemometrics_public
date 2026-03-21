@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "PLS-CNN-for-Chemometrics"
+message: "If you use this software, please cite it as follows."
+type: software
+authors:
+  - family-names: "Colliard Schneider"
+    given-names: "Carlos David"
+    email: "carloscolliard@gmail.com"
+repository-code: "https://github.com/dcolliard/PLS-CNN-for-Chemometrics_public"
+license: "Apache-2.0"
