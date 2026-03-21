@@ -276,7 +276,15 @@ Citation metadata is provided through the repository `CITATION.cff` file.
 This project is licensed under the **Apache License 2.0**.  
 See the [LICENSE](LICENSE) file for details.
 
-## Author
+## Authors
 
-**Carlos David Colliard Schneider**  
-Email: carloscolliard@gmail.com
+### Carlos David Colliard Schneider
+- Email: carloscolliard@gmail.com
+- Affiliation: Laboratorio de Análisis, Procesamiento, Almacenamiento y Control de Datos (LAPACDA), Fac. de Ciencia y Tecnología, Univ. Autónoma de Entre Ríos, Entre Ríos, Argentina
+
+![LAPACDA](docs/images/lapacda.jpg)
+
+### Fabricio Chiapini
+- Affiliation: Laboratorio de Desarrollo Analítico y Quimiometría (LADAQ), Fac. de Bioquímica y Cs. Biológicas, Univ. Nacional del Litoral, Santa Fe, Santa Fe, Argentina
+
+![LADAQ](docs/images/ladaq.jpg)
