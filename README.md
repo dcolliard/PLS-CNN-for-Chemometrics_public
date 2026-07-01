@@ -1,5 +1,10 @@
 # PLS-CNN-for-Chemometrics
 
+This project is currently under construction.
+
+The documentation, source code, and additional resources will be available soon. 
+Thank you for your patience.
+
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-functional-brightgreen)
 ![Python](https://img.shields.io/badge/python-Python-blue)
